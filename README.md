@@ -2,7 +2,7 @@
 
 This project is an **agent-based simulation** of a fictional world with a **triadic gender system** built using the [Mesa](https://mesa.readthedocs.io/en/stable/) framework in Python. It models individual agents with unique gender identities, territorial affiliations, and satisfaction levels that evolve through interactions and policy dynamics.
 
-A society with 3 unique genders, each with distinct characteristics, is a random thought I had about 10 years ago. I day dreamed about how such a society would work, which now turned into a simulation.
+A society with 3 unique genders, each with distinct characteristics, is a random thought I had about 10 years ago. I thought how such a society/world would work, which now turned into a simulation.
 
 ## 🌐 World Overview
 
