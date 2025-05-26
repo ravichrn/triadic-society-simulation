@@ -34,14 +34,14 @@ pip install mesa matplotlib
 
 - Each agent is initialized with:
   -	A core gender (Solari, Lunari, Terran)
-	-	A chance of being a hybrid
-	-	Random satisfaction score (0.7 - 1.0)
-	-	Assigned to a random territory
-	-	Each simulation step:
-	-	Agents randomly interact with one another.
-	-	Interactions modify satisfaction based on gender and territory.
-	-	Policy influences satisfaction at the individual level.
-	-	Data is collected for plotting and analysis.
+  -	A chance of being a hybrid
+  -	Random satisfaction score (0.7 - 1.0)
+  -	Assigned to a random territory
+  -	Each simulation step:
+  -	Agents randomly interact with one another.
+  -	Interactions modify satisfaction based on gender and territory.
+  -	Policy influences satisfaction at the individual level.
+  -	Data is collected for plotting and analysis.
 
 ## 🔍 Future Enhancements
 -	Add reproduction/mutation mechanics.
